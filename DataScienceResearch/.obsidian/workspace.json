@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "9890c409093b2efc",
+    "type": "split",
+    "children": [
+      {
+        "id": "659322ba0231274a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68d533d7f09838d8",
+            "type": "leaf",
+            "state": {
+              "type": "jupyter-viewer",
+              "state": {
+                "file": "Research-Level-Full-RoadMap.ipynb"
+              },
+              "icon": "lucide-file",
+              "title": "Research-Level-Full-RoadMap"
+            }
+          },
+          {
+            "id": "7bfb075e94662298",
+            "type": "leaf",
+            "state": {
+              "type": "jupyter-viewer",
+              "state": {
+                "file": "Research-Level-Full-RoadMap.ipynb"
+              },
+              "icon": "lucide-file",
+              "title": "Research-Level-Full-RoadMap"
+            }
+          },
+          {
+            "id": "9c9abdd34eb88c25",
+            "type": "leaf",
+            "state": {
+              "type": "jupyter-viewer",
+              "state": {
+                "file": "Research-Level-Full-RoadMap.ipynb"
+              },
+              "icon": "lucide-file",
+              "title": "Research-Level-Full-RoadMap"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d24ab5636e8fb04",
+    "type": "split",
+    "children": [
+      {
+        "id": "adf36134774b8670",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c751124c40480eec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6b7ebcaec2ec1217",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3d8b0e6e1d0a1486",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2742ddd771cce981",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5
+  },
+  "right": {
+    "id": "0186a0ce5c4d8c35",
+    "type": "split",
+    "children": [
+      {
+        "id": "ace9b1b8a01fb57b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c655ca0c7111346e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_Meta/MASTER_INDEX.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MASTER_INDEX"
+            }
+          },
+          {
+            "id": "4aad03caee322f73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-07-30.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-07-30"
+            }
+          },
+          {
+            "id": "1b2bc890a79b4485",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5d809b5953a45469",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "87e21347c040a7ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-07-30.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-07-30"
+            }
+          },
+          {
+            "id": "3a7e8f12b34c3ce9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "216bb0f5aeace925",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "5187dec83c15967d",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "copilot:Open Copilot Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-composer:Open smart composer": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "zenmode:Toggle zen mode": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "7bfb075e94662298",
+  "lastOpenFiles": [
+    "📦 Phase00 - Mathematical and Cs Foundations/0.1 Linear Algebra (Deep Level)/A.Vectors & Matrices/Scalars, vectors, matrices, tensors.ipynb",
+    "How-To-Read-Papers.ipynb",
+    "📦 PHASE01 — PYTHON & DEVELOPER ENVIRONMENT MASTERY",
+    "📦 Phase00 - Mathematical and Cs Foundations/0.1 Linear Algebra (Deep Level)/A.Vectors & Matrices/0.1 Linear Algebra (Deep Level)/Vectors & Matrices/Scalars, vectors, matrices, tensors.ipynb",
+    "📦 Phase00 - Mathematical and Cs Foundations/0.1 Linear Algebra (Deep Level)/A.Vectors & Matrices/0.1 Linear Algebra (Deep Level)/Vectors & Matrices",
+    "📦 Phase00 - Mathematical and Cs Foundations/0.1 Linear Algebra (Deep Level)/A.Vectors & Matrices/0.1 Linear Algebra (Deep Level)",
+    "📦 Phase00 - Mathematical and Cs Foundations/0.1 Linear Algebra (Deep Level)/E.Libraries",
+    "📦 Phase00 - Mathematical and Cs Foundations/0.1 Linear Algebra (Deep Level)/D.Norms & Distance",
+    "📦 Phase00 - Mathematical and Cs Foundations/0.1 Linear Algebra (Deep Level)/C.Special Matrices",
+    "📦 Phase00 - Mathematical and Cs Foundations/0.1 Linear Algebra (Deep Level)/B.Decompositions (Critical for ML)",
+    "📦 Phase00 - Mathematical and Cs Foundations/0.1 Linear Algebra (Deep Level)/A.Vectors & Matrices",
+    "Research-Level-Full-RoadMap.md",
+    "Phase00 - Mathematical and Cs Foundations/0.1 Linear Algebra (Deep Level)/Vectors & Matrices/01.ipynb.md",
+    "00_Meta/READING_MODES.md",
+    "2026-07-30.md",
+    "01_Papers/00_Inbox/README.md",
+    "00_Meta/PHASE_INDEX.md",
+    "00_Meta/MASTER_INDEX.md",
+    "00_Meta/How-To-Read-Papers.md",
+    "00_Meta/HARDWARE_LIMITS.md",
+    "00_Meta/Complete-Ai-world-Prompt.md",
+    "00_Meta/WEEKLY_REVIEW.md",
+    "03_Projects/00_Index/README.md",
+    "02_Concepts/00_Index/README.md",
+    "06_Templates/weekly_log.md",
+    "06_Templates/project_log.md",
+    "06_Templates/concept_note.md",
+    "06_Templates/paper_note.md",
+    "Excalidraw/Drawing 2026-07-30 12.42.56.excalidraw.md",
+    "Welcome.md",
+    "Untitled.md",
+    "copilot/copilot-conversations/hii_are_you_read_to_work_with_me@20260730_123434.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md"
+  ]
+}
