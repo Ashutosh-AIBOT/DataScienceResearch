@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "42ac894a324fce59",
+    "type": "split",
+    "children": [
+      {
+        "id": "ada57026c2c1f0c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "707b2d27d11d20c3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a254799b40ed63c",
+    "type": "split",
+    "children": [
+      {
+        "id": "acabee71451978ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f986379704394406",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "558095785e1072b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "86f297891a5f5b2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "223897ffb3e7894e",
+    "type": "split",
+    "children": [
+      {
+        "id": "35c43b633344987c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4ac42e62a25f880",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Research-Level-Full-RoadMap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Research-Level-Full-RoadMap"
+            }
+          },
+          {
+            "id": "b2611ba18ef2814a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Research-Level-Full-RoadMap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Research-Level-Full-RoadMap"
+            }
+          },
+          {
+            "id": "088e5933e4e23927",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e92c053bc81a5664",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8fc3a7e43c9cec83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Research-Level-Full-RoadMap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Research-Level-Full-RoadMap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f986379704394406",
+  "lastOpenFiles": [
+    "Research-Level-Full-RoadMap.md",
+    "Research-Level-Full-RoadMap.ipynb",
+    "Learn-Read-Practice-System.ipynb",
+    "How-To-Read-Papers.ipynb",
+    "Git.ipynb",
+    "00_Meta/WEEKLY_REVIEW.md",
+    "00_Meta/READING_MODES.md",
+    "00_Meta/PHASE_INDEX.md",
+    "00_Meta/MASTER_INDEX.md",
+    "00_Meta/How-To-Read-Papers.md",
+    "00_Meta/HARDWARE_LIMITS.md",
+    "00_Meta/Complete-Ai-world-Prompt.md",
+    "00_Meta",
+    "📦 PHASE01 — PYTHON & DEVELOPER ENVIRONMENT MASTERY",
+    "📦 Phase00 - Mathematical and Cs Foundations/0.1 Linear Algebra (Deep Level)/A.Vectors & Matrices/Scalars, vectors, matrices, tensors.ipynb",
+    "📦 Phase00 - Mathematical and Cs Foundations/0.3 Probability & Statistics (Deep Level)/E.Information Theory",
+    "📦 Phase00 - Mathematical and Cs Foundations/0.3 Probability & Statistics (Deep Level)/D.Statistical Inference",
+    "📦 Phase00 - Mathematical and Cs Foundations/0.3 Probability & Statistics (Deep Level)/C.Probability Distributions (Implement Each from Scratch)",
+    "Welcome.md"
+  ]
+}
