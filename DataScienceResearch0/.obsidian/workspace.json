@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d54e46fc2e1c8892",
+        "id": "ada57026c2c1f0c1",
         "type": "tabs",
         "children": [
           {
-            "id": "d538480fc61cc926",
+            "id": "707b2d27d11d20c3",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ea6448add7e1ddc4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e74925f3ef7fe207",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -106,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Research-Level-Full-RoadMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Research-Level-Full-RoadMap"
             }
           },
           {
@@ -124,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Research-Level-Full-RoadMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Research-Level-Full-RoadMap"
             }
           },
           {
@@ -166,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Research-Level-Full-RoadMap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Research-Level-Full-RoadMap"
             }
           }
         ]
@@ -192,8 +181,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "e74925f3ef7fe207",
+  "active": "f986379704394406",
   "lastOpenFiles": [
+    "Research-Level-Full-RoadMap.md",
     "Research-Level-Full-RoadMap.ipynb",
     "Learn-Read-Practice-System.ipynb",
     "How-To-Read-Papers.ipynb",
@@ -211,7 +201,6 @@
     "📦 Phase00 - Mathematical and Cs Foundations/0.3 Probability & Statistics (Deep Level)/E.Information Theory",
     "📦 Phase00 - Mathematical and Cs Foundations/0.3 Probability & Statistics (Deep Level)/D.Statistical Inference",
     "📦 Phase00 - Mathematical and Cs Foundations/0.3 Probability & Statistics (Deep Level)/C.Probability Distributions (Implement Each from Scratch)",
-    "📦 Phase00 - Mathematical and Cs Foundations/0.3 Probability & Statistics (Deep Level)/B.Random Variables",
     "Welcome.md"
   ]
 }
